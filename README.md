@@ -2,7 +2,7 @@
 
 ## 公式リンク
 
-- [無料版の配布ページ](https://github.com/youtotto/kintone-field-validation-plugin)
+- [無料版の配布ページ](https://github.com/youtotto/field-validation)
 - [紹介ページ](https://www.nestrec.com/post/kintone-field-validation)
 
 kintoneレコードに対して、  
@@ -149,7 +149,7 @@ THEN
 
 # 📦 インストール方法
 
-[Releases](https://github.com/youtotto/kintone-field-validation-plugin/releases/latest) から次のファイルをダウンロードします。
+[Releases](https://github.com/youtotto/field-validation/releases/latest) から次のファイルをダウンロードします。
 
 | ファイル | 用途 |
 |---|---|
