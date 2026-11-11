@@ -153,15 +153,15 @@ THEN
 
 | ファイル | 用途 |
 |---|---|
-| `field-validation-1.1.1-free-bundle.zip` | 説明書付きの配布用 ZIP（おすすめ）。**ZIP を解凍し、中の `field-validation-1.1.1-free-plugin.zip` を kintone へ読み込みます。bundle 自体は kintone に直接読み込みません** |
-| `field-validation-1.1.1-free-plugin.zip` | kintone に直接読み込むプラグイン（bundle の中身と同じファイル） |
+| `field-validation-1.1.2-free-bundle.zip` | 説明書付きの配布用 ZIP（おすすめ）。**ZIP を解凍し、中の `field-validation-1.1.2-free-plugin.zip` を kintone へ読み込みます。bundle 自体は kintone に直接読み込みません** |
+| `field-validation-1.1.2-free-plugin.zip` | kintone に直接読み込むプラグイン（bundle の中身と同じファイル） |
 | `SHA256SUMS.txt` | 上記 ZIP の SHA-256 |
 
-kintone への読み込みは、kintone システム管理 →「プラグイン」→「読み込む」で `field-validation-1.1.1-free-plugin.zip` を ZIP のまま選びます。
+kintone への読み込みは、kintone システム管理 →「プラグイン」→「読み込む」で `field-validation-1.1.2-free-plugin.zip` を ZIP のまま選びます。
 
 1. Release から ZIP をダウンロード（bundle の場合は解凍）
 2. kintone管理画面 → プラグイン
-3. `field-validation-1.1.1-free-plugin.zip` を読み込み
+3. `field-validation-1.1.2-free-plugin.zip` を読み込み
 4. アプリへ適用
 
 ---
